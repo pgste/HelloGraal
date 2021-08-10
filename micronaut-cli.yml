@@ -1,4 +1,4 @@
-applicationType: default
+applicationType: function
 defaultPackage: com.pgs.graal
 testFramework: junit
 sourceLanguage: java
